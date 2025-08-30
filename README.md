@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hallo, I'm Horstaufmental!
 
-<!--
-**Horstaufmental/Horstaufmental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!  
+I'm an enthusiastic explorer of technology, fascinated by the intersections of **Nuclear Energy**, computing, and the mysteries of existence itself.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Research Enthusiast:** I love diving deep into the world of nuclear energy and unraveling intriguing topics about computers.
+- **Hobby Programmer:** You'll mostly find me tinkering and experimenting with code, rather than focusing on big projects.
+- **Languages I Use:**
+  - Fluent in **LuaU**
+  - Currently learning **C**, **JavaScript**, and **Rust**
+
+## Contact me
+
+**Discord: @horstaufmental**
+
+**Roblox: Horstaufmental**
+
+> *Existence is collective: what the many believe, the world substantiates. Proof that consciousness itself can sculpt reality.*
