@@ -21,6 +21,6 @@ Computer Science Major and Nuclear Physics Enthusiast
 
 ## Contact me
 
-**Discord: [@horstaufmental](https://discord.com/users/880022290023215145)**
+![Static Badge](https://img.shields.io/badge/Horstaufmental-%235865f2?style=for-the-badge&label=Discord%20Profile&link=https%3A%2F%2Fdiscord.com%2Fusers%2F880022290023215145)
 
-**Roblox: [Horstaufmental](https://www.roblox.com/users/460541970/profile)**
+![Static Badge](https://img.shields.io/badge/Horstaufmental-%23000000?style=for-the-badge&label=Roblox%20Profile&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F460541970%2Fprofile)
