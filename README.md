@@ -14,7 +14,7 @@ Computer Science Major and Nuclear Physics Enthusiast
 ## About Me
 
 - I love diving deep into the wonders of nuclear energy and unraveling intriguing topics about computers (mostly in a software sense).
-- Mostly what I have here is just tinkering and experimenting with code and stuffs, rather than focusing on big projects.
+- Mostly what I have here is just tinkering and experimenting with code and stuffs, rather than focusing on big (useful) projects.
 - Some Languages I Use:
   - Fluent in **LuaU**
   - Currently learning **C**, **C++**, **JavaScript**, and **Rust**
