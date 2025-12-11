@@ -17,7 +17,7 @@ Computer Science Major and Nuclear Physics Enthusiast
 - Mostly what I have here is just tinkering and experimenting with code and stuffs, rather than focusing on big (useful) projects.
 - Some Languages I Use:
   - ~~Fluent~~ in **LuaU**
-  - Currently learning **C**, **C++**, **Rust**, and **Web Development**
+  - Currently learning **C**, **Rust**, and **Web Development**
 
 ## Current Projects
 
@@ -46,6 +46,7 @@ A recreation of the GNU Coreutils as part of my learning journey to the C Progra
 ![Static Badge](https://img.shields.io/badge/Horstaufmental-%235865f2?style=for-the-badge&label=Discord%20Profile&link=https%3A%2F%2Fdiscord.com%2Fusers%2F880022290023215145)
 
 ![Static Badge](https://img.shields.io/badge/Horstaufmental-%23000000?style=for-the-badge&label=Roblox%20Profile&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F460541970%2Fprofile)
+
 
 
 
