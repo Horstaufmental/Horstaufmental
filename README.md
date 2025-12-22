@@ -31,7 +31,7 @@ Computer Science Major and Nuclear Physics Enthusiast
 
 A Roblox experience about nuclear power plant simulation, intended to simulate the operations of a CANDU reactor with an arcade-realistic style in an environment set in the Touhou Project universe.
 
-More information about lore can be found [here.](https://gist.github.com/Horstaufmental/6059850d582cb4efe74c0c8944fc493a)
+More information can be found [here.](https://horstaufmental.vercel.app/ynpp)
 
 <div align="left">
   <picture>
@@ -46,6 +46,7 @@ A recreation of the GNU Coreutils as part of my learning journey to the C Progra
 ![Static Badge](https://img.shields.io/badge/Horstaufmental-%235865f2?style=for-the-badge&label=Discord%20Profile&link=https%3A%2F%2Fdiscord.com%2Fusers%2F880022290023215145)
 
 ![Static Badge](https://img.shields.io/badge/Horstaufmental-%23000000?style=for-the-badge&label=Roblox%20Profile&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F460541970%2Fprofile)
+
 
 
 
