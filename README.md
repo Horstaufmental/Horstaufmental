@@ -41,11 +41,20 @@ More information can be found [here.](https://horstaufmental.vercel.app/ynpp)
 
 A recreation of the GNU Coreutils as part of my learning journey to the C Programming Language.
 
+<div align="left">
+  <picture>
+    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/coreutils-rs from scratch.png" width="90%">
+  </picture>
+</div>
+
+A subset of the **coreutils from scratch** project, written in Rust as my learning journey to the language.
+
 ## Contact me
 
 ![Static Badge](https://img.shields.io/badge/Horstaufmental-%235865f2?style=for-the-badge&label=Discord%20Profile&link=https%3A%2F%2Fdiscord.com%2Fusers%2F880022290023215145)
 
 ![Static Badge](https://img.shields.io/badge/Horstaufmental-%23000000?style=for-the-badge&label=Roblox%20Profile&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F460541970%2Fprofile)
+
 
 
 
