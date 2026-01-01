@@ -118,17 +118,17 @@ Pressurized Heavy-Water Reactor
   </picture>
 </div>
 
-*Flag of the Moriya Shrine GK and it's subsidaries*
+*Flag of the Moriya Shrine GK and it's subsidiaries*
 
 ## General Information
 
-**Moriya Foundation**, officially the **Moriya Shrine Foundation**, is a non-profit organization, subsidarity of the [Moriya Shrine Godo Kaisha](#moriya-jinja-godo-kaisha) 
+**Moriya Foundation**, officially the **Moriya Shrine Foundation**, is a non-profit organization, subsidiarity of the [Moriya Shrine Godo Kaisha](#moriya-jinja-godo-kaisha) 
 and the owner of [Yatagarasu Nuclear Power Plant](#yatagarasu-nuclear-power-plant).
 The foundation was established and disbanded in 1993 but was later resurrected in 2007.
 The foundation's objective is to provide aids and benefits to the denizens
 of Gensokyo, from humanitarian to military.
 
-## Subsidaries
+## Subsidiaries
 
 - **Yatagarasu Nuclear Power Plant**
 - **Yatsugatake Hydroelectric Plant** *(Bought in 2016-11-09)*
@@ -183,7 +183,7 @@ of Gensokyo, from humanitarian to military.
   </picture>
 </div>
 
-*Flag of the Moriya Shrine GK and it's subsidaries*
+*Flag of the Moriya Shrine GK and it's subsidiaries*
 
 ## General Information
 
@@ -193,10 +193,10 @@ stationed on top of the Youkai Mountain.
 The company is active in various industries, including digital systems, 
 power and renewable energy, railway systems, and financial systems.
 
-## Subsidaries
+## Subsidiaries
 
 > [!NOTE]
-> A separate page about Moriya Shrine's subsidaries and it's details are currently under work.
+> A separate page about Moriya Shrine's subsidiaries and it's details are currently under work.
 
 - **Moriya Shrine Foundation**
   - Yatagarasu Nuclear Power Plant
@@ -247,7 +247,7 @@ power and renewable energy, railway systems, and financial systems.
 
 **The Supreme Assembly**
 
-## Subsidaries
+## Subsidiaries
 
 > [!NOTE]
 > This section is a stub and it needs expanding with more information related to the section's topic.
@@ -324,5 +324,6 @@ The Ministry of Research has faced constant criticism regarding the scope of its
 While the ministry maintains that all projects comply with Lunarian legal frameworks, the lack of transparency has fueled speculation of unregulated and inhumane experimentation.
 
 The covert nature of the ministry’s collaborations with Earth-based institutions has been a recurring source of controversy. Critics within the Lunar Council have raised concerns that technology exchanges, particularly in nuclear and fusion-related fields, could destabilize geopolitical balances on Earth or expose Lunarian methods to reverse engineering.
+
 
 Supporters argue that controlled collaboration serves as a testing ground for large scale systems without risking the Lunar infrastructure.
