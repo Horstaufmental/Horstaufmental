@@ -266,3 +266,63 @@ power and renewable energy, railway systems, and financial systems.
     <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/GENBU/portraits/Genburia_Portrait_Nitori.png" alt="Kawashiro Nitori" width="90%">
   </picture>
 </div>
+
+# Lunar Ministry of Research
+
+<div align="left">
+  <picture>
+    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/Flag_of_the_Ministry_of_Research_and_Technological_Advancements.png" alt="Flag of the Ministry of Research and Technological Advancements" width="90%">
+  </picture>
+</div>
+
+*Flag of the Lunar Ministry of Research*
+
+## General Information
+
+The **Lunar Ministry of Research**, officially the **Ministry of Research and Technological Advancements** (科学技術革新省, *(kagaku gijutsu kakushinshō)*; **MoRTA**) is a Lunarian government body responsible for the oversight of **research** and **science and technology** in the Lunar Capital. The ministry serves as the powerhouse to all innovations in the Lunar Capital, ranging from energy, communication to military.
+
+## Organization
+
+### Administration
+
+- Office of the Minister
+- Office of the Permanent Secretary
+- Council of Department Administration
+
+### Departments
+- Department of Fundamental Sciences Research
+- Department of Energy and Infrastructure Research
+- Department of Applied Engineering and Industry
+- Department of Strategic and Military Technologies
+- Department of Information and Communications
+
+## Subsidiaries
+
+- **Central Energy Development Authority**
+  - **Tsukuyomi Generating Station**, *(TGS), uses ABWR reactor*
+  - **Superconducting Experimental Tokamak**, *(SET)*
+- ***"The Crescent"* Advanced Arms Corporation**
+- **Capital Research Logistics Foundation**
+
+## Chain of Command
+
+<div align="left">
+  <picture>
+    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/Minister_of_Research.png" alt="Minister of Research" width="85%">
+  </picture>
+</div>
+<div align="left">
+  <picture>
+    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/portraits/Genburia_Portrait_Sagume.png" alt="Kishin Sagume" width="90%">
+  </picture>
+</div>
+
+## Controversies
+
+The Ministry of Research has faced constant criticism regarding the scope of its classified programs, particularly within the **Strategic and Military Technologies** department. Critics argue that the ministry’s focus on results-driven research has led to insufficient oversight, especially in projects involving autonomous weapon systems, and long-term exposure to high-energy environments.
+
+While the ministry maintains that all projects comply with Lunarian legal frameworks, the lack of transparency has fueled speculation of unregulated and inhumane experimentation.
+
+The covert nature of the ministry’s collaborations with Earth-based institutions has been a recurring source of controversy. Critics within the Lunar Council have raised concerns that technology exchanges, particularly in nuclear and fusion-related fields, could destabilize geopolitical balances on Earth or expose Lunarian methods to reverse engineering.
+
+Supporters argue that controlled collaboration serves as a testing ground for large scale systems without risking the Lunar infrastructure.
