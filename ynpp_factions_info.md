@@ -271,7 +271,7 @@ power and renewable energy, railway systems, and financial systems.
 
 <div align="left">
   <picture>
-    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/Flag_of_the_Ministry_of_Research_and_Technological_Advancements.png" alt="Flag of the Ministry of Research and Technological Advancements" width="90%">
+    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/Flag_of_the_Ministry_of_Research_and_Technological_Advancements.png" alt="Flag of the Ministry of Research and Technological Advancements" width="50%">
   </picture>
 </div>
 
@@ -299,7 +299,7 @@ The **Lunar Ministry of Research**, officially the **Ministry of Research and Te
 ## Subsidiaries
 
 - **Central Energy Development Authority**
-  - **Tsukuyomi Generating Station**, *(TGS), uses ABWR reactor*
+  - **Tsukuyomi Generating Station**, *(TGS), uses [ABWR](https://en.wikipedia.org/wiki/Advanced_boiling_water_reactor) reactor*
   - **Superconducting Experimental Tokamak**, *(SET)*
 - ***"The Crescent"* Advanced Arms Corporation**
 - **Capital Research Logistics Foundation**
@@ -313,7 +313,7 @@ The **Lunar Ministry of Research**, officially the **Ministry of Research and Te
 </div>
 <div align="left">
   <picture>
-    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/portraits/Genburia_Portrait_Sagume.png" alt="Kishin Sagume" width="90%">
+    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/factionsInfo_YNPP_compressed/LUNAR/portraits/Lunar_Portrait_Sagume.png" alt="Kishin Sagume" width="90%">
   </picture>
 </div>
 
