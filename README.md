@@ -9,7 +9,7 @@
 
 > *Existence is collective: what the many believe, the world substantiates. Proof that consciousness itself can sculpt reality.*
 
-Computer Science Major and Nuclear Physics Enthusiast
+Computer Science Major and Nuclear Energy Enthusiast
 
 ## About Me
 
@@ -31,7 +31,7 @@ Computer Science Major and Nuclear Physics Enthusiast
 
 A Roblox experience about nuclear power plant simulation, intended to simulate the operations of a CANDU reactor with an arcade-realistic style in an environment set in the Touhou Project universe.
 
-More information can be found [here.](https://horstaufmental.vercel.app/ynpp)
+More information can be found [here.](https://horstaufmental.cc/ynpp)
 
 <div align="left">
   <picture>
