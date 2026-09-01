@@ -19,9 +19,9 @@ Computer Science Major and Nuclear Energy Enthusiast
 - Some Languages I Use:
   - ~~Fluent~~ in **LuaU**
   - Currently learning **C**, **Rust**, and **Web Development**
-- Developing for
-  - [Realistic Boiling Water Reactor]()\'s Brzegowa Hydroelectric
-  - FranzEulenberg's [Democratic People's Republic of Korea]()
+- Currently Developing for:
+  - [Realistic Boiling Water Reactor](https://www.roblox.com/communities/16332057)\'s Brzegowa Hydroelectric
+  - FranzEulenberg's [Democratic People's Republic of Korea](https://www.roblox.com/communities/905672052)
 
 ## Current Projects
 
