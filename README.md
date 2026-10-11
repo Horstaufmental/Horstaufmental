@@ -16,7 +16,7 @@ I have gathered quite a lot of experiences with many programming languages, but 
 >  - **Luau**, **C**, **Rust**
 
 Asides from personal projects, I also work for:
->  - DeviousFairyCirno's [Touhou: War for Gensokyo](https://www.roblox.com/communites/34928969)
+>  - DeviousFairyCirno's [Touhou: War for Gensokyo](https://www.roblox.com/communities/34928969)
 >  - AviatorsPaektu's [Democratic People's Republic of Korea](https://www.roblox.com/communities/34213080)
 >  - FranzEulenberg's [Kingdom of Italy](https://www.roblox.com/communities/761858393)
 
