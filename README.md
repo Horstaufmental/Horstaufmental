@@ -1,27 +1,27 @@
 # 👋 Hallo, I'm Horstaufmental!
 
-<div align="center">
+<a href="https://x.com/Mxx_459/status/1522906505611456514" title="Click to view image's source" target="_blank" align="center">
   <picture>
     <img src="./images/tenshi_greeting.jpg" width="100%">
   </picture>
-</div>
+</a>
 
-[Source: hiratose02 (mxx 459)](https://x.com/Mxx_459/status/1522906505611456514)
+## About me
 
-> *Existence is collective: what the many believe, the world substantiates. Proof that consciousness itself can sculpt reality.*
+Just a humble man interested in many talents and topics, particularly about computers and nuclear power plants.
 
-Computer Science Major and Nuclear Energy Enthusiast
+What I've hosted here are just tinkering and experimenting with code and stuffs, rare times that I focus on big (and productive) projects.
 
-## About Me
+I have gathered quite a lot of experiences with many programming languages, but I'm mostly confident with:
+>  - **Luau**, **C**, **Rust**
 
-- I love diving deep into the wonders of nuclear energy and unraveling intriguing topics about computers (mostly in a software sense).
-- Mostly what I have here is just tinkering and experimenting with code and stuffs, rather than focusing on big (useful) projects.
-- Some Languages I Use:
-  - ~~Fluent~~ in **LuaU**
-  - Currently learning **C**, **Rust**, and **Web Development**
-- Currently Developing for:
-  - [Realistic Boiling Water Reactor](https://www.roblox.com/communities/16332057)\'s Brzegowa Hydroelectric
-  - FranzEulenberg's [Democratic People's Republic of Korea](https://www.roblox.com/communities/905672052)
+Asides from personal projects, I also work for:
+>  - DeviousFairyCirno's [Touhou: War for Gensokyo](https://www.roblox.com/communites/34928969)
+>  - AviatorsPaektu's [Democratic People's Republic of Korea](https://www.roblox.com/communities/34213080)
+>  - FranzEulenberg's [Kingdom of Italy](https://www.roblox.com/communities/761858393)
+
+Some notable stuffs I used to work for includes:
+>  - [Realistic Boiling Water Reactor](https://www.roblox.com/communities/16332057)\'s Brzegowa Hydroelectric
 
 ## Current Projects
 
@@ -31,24 +31,11 @@ Computer Science Major and Nuclear Energy Enthusiast
   </picture>
 </div>
 
-*Built in 2011 by the Moriya Shrine Foundation with the collaboration of the Chireiden, it is stationed underground below the Former Hell and Palace of Earth Spirits, the power plant has been the main source of electricity for the whole of Gensokyo ever since its first operations.*
+>[!NOTE]
+>The (game) development is currently on hiatus, only lore/story are being worked at the moment.
+
+>*Built in 2011 by the Moriya Shrine Foundation with the collaboration of the Chireiden, it is stationed underground below the Former Hell and Palace of Earth Spirits, the power plant has been the main source of electricity for the whole of Gensokyo ever since its first operations.*
 
 A Roblox experience about nuclear power plant simulation, intended to simulate the operations of a CANDU reactor with an arcade-realistic style in an environment set in the Touhou Project universe.
 
 More information can be found [here.](https://horstaufmental.cc/ynpp)
-
-<div align="left">
-  <picture>
-    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/coreutils-from-scratch full icon.png" width="90%">
-  </picture>
-</div>
-
-A recreation of the GNU Coreutils as part of my learning journey to the C Programming Language.
-
-<div align="left">
-  <picture>
-    <img src="https://raw.githubusercontent.com/Horstaufmental/Horstaufmental/main/images/coreutils-rs from scratch.png" width="90%">
-  </picture>
-</div>
-
-A subset of the **coreutils from scratch** project, written in Rust as my learning journey to the language.
